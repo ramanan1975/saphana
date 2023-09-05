@@ -1,5 +1,5 @@
 # Import your dependencies
-import pytest
+#import pytest
 import dbapi
 from hdbcli import dbapi
 from utilities.saphanaReadConfig import ReadConfig
